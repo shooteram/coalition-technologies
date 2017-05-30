@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="col-md-8 col-md-offset-2" v-show="! error.status">
+        <div class="col-md-10 col-md-offset-1" v-show="! error.status">
             <div class="panel panel-default">
                 <div class="panel-heading">Add a new product</div>
 
