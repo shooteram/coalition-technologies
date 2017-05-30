@@ -7,6 +7,8 @@ It is an exercice for the company Coalition Technologies.
 * Clone this repository
 * cd in the newly created directory
 * Run a ```composer install```
+* Run a ```cp .env.example .env```
+* Run a ```php artisan key:generate```
 * Set your database in the ```.env``` file
 * Run a ```php artisan migrate --seed```
 * Run a ```npm install```
